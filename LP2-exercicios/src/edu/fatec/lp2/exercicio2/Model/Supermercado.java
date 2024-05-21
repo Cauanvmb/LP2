@@ -1,4 +1,5 @@
-package Model;
+package edu.fatec.lp2.exercicio2.Model;
+
 public class Supermercado {
     private String nome;
 

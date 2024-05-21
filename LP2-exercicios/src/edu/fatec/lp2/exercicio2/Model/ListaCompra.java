@@ -1,4 +1,6 @@
-package Model;
+package edu.fatec.lp2.exercicio2.Model;
+
+import Model.Calculavel;
 
 public class ListaCompra implements Calculavel {
     private ItemCompra[] itensCompra;

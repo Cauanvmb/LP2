@@ -1,8 +1,10 @@
+package edu.fatec.lp2.exercicio1;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import Model.Contatinho;
-import Model.Mensagem;
+import edu.fatec.lp2.exercicio1.Model.Contatinho;
+import edu.fatec.lp2.exercicio1.Model.Mensagem;
 
 public class Whatsapp {
     private List<Contatinho> contatos;

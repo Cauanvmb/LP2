@@ -1,4 +1,7 @@
-package Model;
+package edu.fatec.lp2.exercicio2.Model;
+
+import Model.Calculavel;
+
 public class ItemCompra implements Calculavel {
     private int quantidade;
     private Produto produto;

@@ -1,4 +1,5 @@
-package Model;
+package edu.fatec.lp2.exercicio1.Model;
+
 public class Contatinho {
     private String nome;
     private String celular;

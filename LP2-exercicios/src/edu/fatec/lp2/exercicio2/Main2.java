@@ -1,7 +1,9 @@
-import Model.ItemCompra;
-import Model.ListaCompra;
-import Model.Produto;
-import Model.Supermercado;
+package edu.fatec.lp2.exercicio2;
+
+import edu.fatec.lp2.exercicio2.Model.ItemCompra;
+import edu.fatec.lp2.exercicio2.Model.ListaCompra;
+import edu.fatec.lp2.exercicio2.Model.Produto;
+import edu.fatec.lp2.exercicio2.Model.Supermercado;
 
 public class Main2 {
     public static void main(String[] args) {

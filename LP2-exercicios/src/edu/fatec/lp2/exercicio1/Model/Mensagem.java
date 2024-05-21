@@ -1,4 +1,5 @@
-package Model;
+package edu.fatec.lp2.exercicio1.Model;
+
 public abstract class Mensagem {
     private Contatinho destinatario;
     private String horaEnvio;

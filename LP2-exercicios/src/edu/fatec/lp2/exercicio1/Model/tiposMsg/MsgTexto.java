@@ -1,6 +1,7 @@
-package Model.tiposMsg;
-import Model.Contatinho;
-import Model.Mensagem;
+package edu.fatec.lp2.exercicio1.Model.tiposMsg;
+
+import edu.fatec.lp2.exercicio1.Model.Contatinho;
+import edu.fatec.lp2.exercicio1.Model.Mensagem;
 
 public class MsgTexto extends Mensagem {
     private int numChar;
