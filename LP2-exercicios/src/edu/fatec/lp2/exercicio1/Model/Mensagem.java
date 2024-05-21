@@ -1,4 +1,4 @@
-package Mensagem;
+package Model;
 public abstract class Mensagem {
     private Contatinho destinatario;
     private String horaEnvio;

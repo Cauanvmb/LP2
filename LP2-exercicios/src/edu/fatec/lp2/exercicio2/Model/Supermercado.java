@@ -1,4 +1,4 @@
-package SuperMercado;
+package Model;
 public class Supermercado {
     private String nome;
 

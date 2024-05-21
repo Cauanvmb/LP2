@@ -1,9 +1,9 @@
-import SuperMercado.ItemCompra;
-import SuperMercado.ListaCompra;
-import SuperMercado.Produto;
-import SuperMercado.Supermercado;
+import Model.ItemCompra;
+import Model.ListaCompra;
+import Model.Produto;
+import Model.Supermercado;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         Supermercado supermercado = new Supermercado();
         supermercado.setNome("Supermercado Astolfo");

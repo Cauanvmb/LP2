@@ -1,4 +1,4 @@
-package SuperMercado;
+package Model;
 public class ItemCompra implements Calculavel {
     private int quantidade;
     private Produto produto;

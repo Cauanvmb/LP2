@@ -1,4 +1,4 @@
-package SuperMercado;
+package Model;
 
 public interface Calculavel {
     double calcularPreco();

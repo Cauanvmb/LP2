@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import Mensagem.Contatinho;
-import Mensagem.Mensagem;
+import Model.Contatinho;
+import Model.Mensagem;
 
 public class Whatsapp {
     private List<Contatinho> contatos;

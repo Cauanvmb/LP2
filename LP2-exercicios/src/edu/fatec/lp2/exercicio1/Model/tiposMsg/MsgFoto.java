@@ -1,6 +1,6 @@
-package Mensagem.tiposMsg;
-import Mensagem.Contatinho;
-import Mensagem.Mensagem;
+package Model.tiposMsg;
+import Model.Contatinho;
+import Model.Mensagem;
 
 public class MsgFoto extends Mensagem {
     private int tamanho;

@@ -1,4 +1,4 @@
-package SuperMercado;
+package Model;
 
 public class ListaCompra implements Calculavel {
     private ItemCompra[] itensCompra;
