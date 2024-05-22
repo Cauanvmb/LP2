@@ -1,9 +1,8 @@
 package edu.fatec.lp2.exercicio2;
-
-import edu.fatec.lp2.exercicio2.Model.ItemCompra;
-import edu.fatec.lp2.exercicio2.Model.ListaCompra;
-import edu.fatec.lp2.exercicio2.Model.Produto;
-import edu.fatec.lp2.exercicio2.Model.Supermercado;
+import edu.fatec.lp2.exercicio2.SuperMercado.ItemCompra;
+import edu.fatec.lp2.exercicio2.SuperMercado.ListaCompra;
+import edu.fatec.lp2.exercicio2.SuperMercado.Produto;
+import edu.fatec.lp2.exercicio2.SuperMercado.Supermercado;
 
 public class Main2 {
     public static void main(String[] args) {
